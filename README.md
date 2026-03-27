@@ -156,7 +156,7 @@ g++ main.cpp Student.cpp StudentManager.cpp Person.cpp -o app
 
 ## 👨‍💻 Author
 
-Fathy Mohamed
+
 
 ---
 
