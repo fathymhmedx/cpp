@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1774536405 source:d:\nodejs projects\c++\student course management system\person.cpp
+	"Person.h"
+
+1774536358 d:\nodejs projects\c++\student course management system\person.h
+	<string>
+
+1774569277 source:d:\nodejs projects\c++\student course management system\student.cpp
+	<fstream>
+	"Student.h"
+
+1774569256 d:\nodejs projects\c++\student course management system\student.h
+	"Person.h"
+	<set>
+	<iostream>
+
+1774570001 source:d:\nodejs projects\c++\student course management system\studentmanager.cpp
+	"StudentManager.h"
+	<iostream>
+	<algorithm>
+	<fstream>
+	<sstream>
+
+1774569297 d:\nodejs projects\c++\student course management system\studentmanager.h
+	"Student.h"
+	<vector>
+
+1774569818 source:d:\nodejs projects\c++\student course management system\main.cpp
+	<iostream>
+	"StudentManager.h"
+
